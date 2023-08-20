@@ -1,1 +1,1 @@
-# SNP
+# Master Thesis Project
